@@ -1,5 +1,5 @@
 # Cricket-Highlight-Generator-Cpp
-# AI Cricket Highlight Generator (C++)
+
 
 ## Overview
 This project automatically generates a 10-minute cricket highlight video using multi-modal event detection.
